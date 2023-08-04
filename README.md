@@ -116,3 +116,4 @@ https://tech-blog-rb-4cc943b43fb0.herokuapp.com/
 * The URL of the GitHub repository, with a unique name and a readme describing the project.<br>
 https://github.com/rbala16/The-Tech-blog_rb
 
+updated files for heroku
