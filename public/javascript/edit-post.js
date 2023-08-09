@@ -24,6 +24,7 @@ async function editpostHandler(event) {
       document.location.replace('/dashboard/');
     } else {
       alert(response.statusText);
+   
     }
 
 }
